@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 100px;
+    
 }
 .vertical{
     border-left:3px solid tomato;
@@ -16,6 +16,7 @@ h1{
 }
 section{
     display: flex;
+    margin-left: 100px;
 }
 .first-sec{
     width: 50%;
